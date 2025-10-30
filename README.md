@@ -251,7 +251,7 @@ TrainReservationSystem-JavaJSP-MySQL/
 
 ## 🎬 Demo Video
 
-- Watch the demo video [here](https://drive.google.com/file/d/1yPmVz9WBWu2k9mbKYKCI-t9jELYi7LsL/view?usp=sharing).
+- Watch the demo video [here](https://drive.google.com/file/d/1yPmVz9WBWu2k9mbKYKCI-t9jELYi7LsL/view?usp=drive_link).
 
 ---
 
